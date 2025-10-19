@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mathias Bleuze
+# 👋 Hi, I'm Mathias Bleuzé
 
 💻 **Junior Web Developer**  
 Turning ideas into concrete, useful, and well-crafted projects.  
